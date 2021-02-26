@@ -1,0 +1,9 @@
+{
+    urls: {
+        "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Song.json",
+        "displayName": "Soul Collector",
+        "version": "v0.1",
+        "launcherRelease": true,
+        "latestRelease": true
+    }
+}
