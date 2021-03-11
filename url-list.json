@@ -1,15 +1,20 @@
 {
-    "displayNames": [
-        "Soul Collector"
-    ],
     "urls": [
         {
             "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Test.txt",
             "displayName": "Soul Collector",
             "version": "v0.1",
-            "packed": false,
+            "packed": true,
+            "packName": "Pack 0",
+            "latestRelease": false
+        },
+        {
+            "ur": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector-Fixed.exe",
+            "displayName": "Soul Collector",
+            "version": "v0.1.1",
+            "packed": true,
             "packName": "Pack 0",
             "latestRelease": true
-        }
+        ]
     ]
 }
