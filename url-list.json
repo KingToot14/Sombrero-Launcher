@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Test.txt",
+            "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector-Fixexd.exe",
             "displayName": "Soul Collector",
             "version": "v0.1",
             "packed": true,
@@ -9,7 +9,7 @@
             "latestRelease": false
         },
         {
-            "ur": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector-Fixed.exe",
+            "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector-Fixed.exe",
             "displayName": "Soul Collector",
             "version": "v0.1.1",
             "packed": true,
