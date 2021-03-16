@@ -23,14 +23,6 @@
             "packed": false,
             "packName": "Pack 0",
             "latestRelease": true
-        },
-        {
-            "url": "N/A",
-            "displayName": "Other",
-            "version": "v0.1.3",
-            "packed": false,
-            "packName": "None",
-            "latestRelease": false
         }
     ]
 }
