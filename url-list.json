@@ -20,7 +20,7 @@
             "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector-Resolution.exe",
             "displayName": "Soul Collector",
             "version": "v0.1.2",
-            "packed": true,
+            "packed": false,
             "packName": "Pack 0",
             "latestRelease": true
         }
