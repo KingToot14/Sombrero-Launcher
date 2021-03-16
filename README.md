@@ -11,4 +11,4 @@ If you don't have the exe downloaded for the game, you can download it straight 
 
 ## Download
 Click here to download the latest version of the launcher:
-<a href=https://github.com/KingToot14/Sombrero-Launcher/releases/download/launcher/v1.0.exe target="_blank" rel="noopener noreferrer">Sombrero Launcher</a>
+<a href=https://github.com/KingToot14/Sombrero-Launcher/releases/download/launcher/v1.0.exe>Sombrero Launcher</a>
