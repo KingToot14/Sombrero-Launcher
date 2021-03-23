@@ -1,5 +1,6 @@
 {
-    "launcherVersion": 1.1,
+    "launcherVersion": 1.2,
+    "launcherUrl": "github.com/KingToot14/Launcher-Test/releases/download/launchers/v1-1.exe",
     "urls": [
         {
             "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector.exe",
