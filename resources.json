@@ -5,5 +5,12 @@
             "resourceName": "Soul Collector Logo",
             "fileName": "Soul-Collector-Logo.png"
         }
+    ],
+    "newsArticles": [
+        {
+            "title": "<color #9f20co>Soul Collector</color><br>Relase",
+            "date": "March 30, 2021",
+            "body": "\tThis is the news release for Soul Collector."
+        }
     ]
 }
