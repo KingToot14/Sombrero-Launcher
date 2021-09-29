@@ -7,19 +7,19 @@
     "urls": [
         {
             "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector.exe",
-            "displayName": "Soul Collector",
+            "displayName": "Altruspecter",
             "version": "v0.1",
             "packName": "Pack 0",
         },
         {
             "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector-Fixed.exe",
-            "displayName": "Soul Collector",
+            "displayName": "Altruspecter",
             "version": "v0.1.1",
             "packName": "Pack 0",
         },
         {
             "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector-Resolution.exe",
-            "displayName": "Soul Collector",
+            "displayName": "Altruspecter",
             "version": "v0.1.2",
             "packed": false,
             "packName": "",
