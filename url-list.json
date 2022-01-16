@@ -5,15 +5,18 @@
             "versions": [
                 {
                     "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.1"
+                    "version": "0.1",
+                    "filename": "Altruspecter-v0.1.exe"
                 },
                 {
                     "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.2"
+                    "version": "0.2",
+                    "filename": "Altruspecter-v0.2.exe"
                 },
                 {
                     "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.3"
+                    "version": "0.3",
+                    "filename": "Altruspecter-v0.3.exe"
                 }
             ]
         },
@@ -22,15 +25,18 @@
             "versions": [
                 {
                     "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.1"
+                    "version": "0.1",
+                    "filename": "Among_Us_Simulator-v0.1.exe"
                 },
                 {
                     "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.2"
+                    "version": "0.2",
+                    "filename": "Among_Us_Simulator-v0.2.exe"
                 },
                 {
                     "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.3"
+                    "version": "0.3",
+                    "filename": "Among_Us_Simulator-v0.3.exe"
                 }
             ]
         },
@@ -39,15 +45,18 @@
             "versions": [
                 {
                     "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.1"
+                    "version": "0.1",
+                    "filename": "Five_Nights_at_Fredricks-v0.1.exe"
                 },
                 {
                     "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.2"
+                    "version": "0.2",
+                    "filename": "Five_Nights_at_Fredricks-v0.2.exe"
                 },
                 {
                     "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.3"
+                    "version": "0.3",
+                    "filename": "Five_Nights_at_Fredricks-v0.3.exe"
                 }
             ]
         }
