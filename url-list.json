@@ -6,6 +6,48 @@
                 {
                     "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
                     "version": "0.1"
+                },
+                {
+                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
+                    "version": "0.2"
+                },
+                {
+                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
+                    "version": "0.3"
+                }
+            ]
+        },
+        {
+            "displayName": "Among Us Simulator",
+            "versions": [
+                {
+                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
+                    "version": "0.1"
+                },
+                {
+                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
+                    "version": "0.2"
+                },
+                {
+                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
+                    "version": "0.3"
+                }
+            ]
+        },
+        {
+            "displayName": "Five Nights and Fredricks",
+            "versions": [
+                {
+                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
+                    "version": "0.1"
+                },
+                {
+                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
+                    "version": "0.2"
+                },
+                {
+                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
+                    "version": "0.3"
                 }
             ]
         }
