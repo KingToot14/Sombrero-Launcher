@@ -1,28 +1,13 @@
 {
-    "launcherInfo": {
-        "launcherVersion": 1.2,
-        "launcherUrl": "github.com/KingToot14/Launcher-Test/releases/download/launcher/Sombrero-Launcher-v1.2.exe",
-        "launcherName": "Sombrer-Launcher-v1.2"
-    },
-    "urls": [
+    "games": [
         {
-            "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector.exe",
             "displayName": "Altruspecter",
-            "version": "v0.1",
-            "packName": "Pack 0",
-        },
-        {
-            "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector-Fixed.exe",
-            "displayName": "Altruspecter",
-            "version": "v0.1.1",
-            "packName": "Pack 0",
-        },
-        {
-            "url": "github.com/KingToot14/Launcher-Test/releases/download/v0.1/Soul-Collector-Resolution.exe",
-            "displayName": "Altruspecter",
-            "version": "v0.1.2",
-            "packed": false,
-            "packName": "",
+            "versions": [
+                {
+                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
+                    "version": "v0.1"
+                }
+            ]
         }
     ]
 }
