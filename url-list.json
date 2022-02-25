@@ -18,36 +18,11 @@
             ]
         },
         {
-            "displayName": "Among Us Simulator",
+            "displayName": "Blank is the Fake",
             "versions": [
                 {
-                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
+                    "url": "github.com/KingToot14/Sombrero-Launcher/releases/download/brackeys2022.1/Blank_is_the_Fake.exe",
                     "version": "0.1"
-                },
-                {
-                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.2"
-                },
-                {
-                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.3"
-                }
-            ]
-        },
-        {
-            "displayName": "Five Nights at Fredricks",
-            "versions": [
-                {
-                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.1"
-                },
-                {
-                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.2"
-                },
-                {
-                    "url": "github.com/KingToot14/Altruspecter/releases/download/alpha/Altruspecter-v0.1.exe",
-                    "version": "0.3"
                 }
             ]
         }
